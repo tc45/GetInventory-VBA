@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/tc45/Python_Learning" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tc45/NetDevOps-GetInventory.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\tony\PycharmProjects" />
